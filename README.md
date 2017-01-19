@@ -47,3 +47,5 @@ var project_price = minimum_price * client_budget_modifier;
 console.log("Don't work for less than this: " + minimum_price);
 console.log("Proposed project price: " + project_price);
 ```
+
+**Example Result:** http://codepen.io/anon/pen/xggoQg?editors=0012
